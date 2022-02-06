@@ -1,0 +1,8 @@
+Currency Exchange Service   !!!
+http://localhost:8000/currency-exchange/from/USD/to/TR
+
+Currency Exchange Service-GU TEST   !!!
+http://localhost:8000/currency-exchange/by/65.00
+
+Currency Conversion Service
+http://localhost:8100/currency-conversion/from/USD/to/TR/quantity/10
